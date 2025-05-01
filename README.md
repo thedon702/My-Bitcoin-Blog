@@ -27,6 +27,10 @@ It needs to be a secure way to store value, and nothing else. Keep the fancy upg
 
 My 0.02.
 
+----------------------
+Added: May 1, 2025
+----------------------
+
 Bitcoin Core Actively Sabotaging Bitcoin
 
 https://www.youtube.com/watch?v=15biQH1H140&t=1s
