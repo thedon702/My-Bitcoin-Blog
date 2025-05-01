@@ -26,3 +26,7 @@ Bitcoin only needs to do one thing, and it needs to do it well.
 It needs to be a secure way to store value, and nothing else. Keep the fancy upgrades to layer 2.
 
 My 0.02.
+
+Bitcoin Core Actively Sabotaging Bitcoin
+
+https://www.youtube.com/watch?v=15biQH1H140&t=1s
