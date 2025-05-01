@@ -31,6 +31,7 @@ My 0.02.
 Added: May 1, 2025
 ----------------------
 
-Bitcoin Core Actively Sabotaging Bitcoin
+Check out Bitcoin Mechanic's latest video, I've been following him for years and what he says makes sense to me.
 
+Bitcoin Core Actively Sabotaging Bitcoin
 https://www.youtube.com/watch?v=15biQH1H140&t=1s
