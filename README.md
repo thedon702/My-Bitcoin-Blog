@@ -33,5 +33,9 @@ Added: May 1, 2025
 
 Check out Bitcoin Mechanic's latest video, I've been following him for years and what he says makes sense to me.
 
-Bitcoin Core Actively Sabotaging Bitcoin
+Bitcoin Core Actively Sabotaging Bitcoin:
 https://www.youtube.com/watch?v=15biQH1H140&t=1s
+
+More in depth video on the topic:
+Roundtable_009 - If It’s Not Broken, Core Will Fix That
+https://youtu.be/xc6aMxztle4?si=9dqzxb1eOVyJRV65
