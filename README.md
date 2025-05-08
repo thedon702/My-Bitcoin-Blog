@@ -39,3 +39,8 @@ https://www.youtube.com/watch?v=15biQH1H140&t=1s
 More in depth video on the topic:
 Roundtable_009 - If It’s Not Broken, Core Will Fix That
 https://youtu.be/xc6aMxztle4?si=9dqzxb1eOVyJRV65
+
+Latest video on the topic
+
+Bitcoin Mechanic vs Peter Todd Debate | Bitcoin Core Node Changes
+https://youtu.be/gbQvU-woY14?si=xvM76DRiNcvqR-cA
