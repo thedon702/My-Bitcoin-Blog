@@ -48,7 +48,7 @@ https://youtu.be/gbQvU-woY14?si=xvM76DRiNcvqR-cA
 I'm with Mechanic on all this stuff, lets make Bitcoin money again, not a place to store jpgs.
 Hopefully more poeple will realize this and make the switch to knots.
 
-Lol, best comment under the video:
+Best comment under the video:
 
 Why is the one dude covering his face? 
 Answer: He's is protecting his identity by using a physical filter. lol :D
