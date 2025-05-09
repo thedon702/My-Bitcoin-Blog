@@ -44,3 +44,6 @@ Latest video on the topic
 
 Bitcoin Mechanic vs Peter Todd Debate | Bitcoin Core Node Changes
 https://youtu.be/gbQvU-woY14?si=xvM76DRiNcvqR-cA
+
+I'm with Mechanic on all this stuff, lets make Bitcoin money again, not a place to store jpgs.
+Hopefully more poeple will realize this and make the switch to knots.
