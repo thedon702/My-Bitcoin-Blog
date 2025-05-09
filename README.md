@@ -52,3 +52,6 @@ Best comment under the video:
 
 Why is the one dude covering his face? 
 Answer: He's is protecting his identity by using a physical filter. lol :D
+
+Bitcoin Core Removes The Mask
+https://www.youtube.com/watch?v=PaAjhhkFjU8
