@@ -1,5 +1,3 @@
-# MyBitconPhilosophy
-
 I'm new to bitcoin and I'm here to fix it!
 
 There are two types of people, those that know what they don't know and those that don't know what they don't know.
