@@ -28,7 +28,7 @@ It needs to be a secure way to store value, and nothing else. Keep the fancy upg
 My 0.02.
 
 ----------------------
-Added: May 1, 2025
+2025 Updates
 ----------------------
 
 Check out Bitcoin Mechanic's latest video, I've been following him for years and what he says makes sense to me.
