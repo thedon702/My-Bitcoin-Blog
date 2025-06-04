@@ -53,3 +53,7 @@ Answer: He's is protecting his identity by using a physical filter. lol :D
 
 Bitcoin Core Removes The Mask
 https://www.youtube.com/watch?v=PaAjhhkFjU8
+
+Btw, I need to make a distiction, when I was saying in my original post I was an ossifcationist except for crital bugs etc, I was talking about the bitcoin protocol, not the client side software which obviously needs updates!
+
+As far as protocol stuff, perhaps there's a need for CTV but other than crital bugs after that I'm not seeing anything that's needed. I'm still not fully sold on CTV but if Mechanic is backing it I tend to side with him.
